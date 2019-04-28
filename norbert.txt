@@ -5,3 +5,6 @@ losowy tekst 1
 losowy tekst
 >>>>>>> e02f0881f24d04297d6a94b2a92117f8276842b3
 losowy
+
+
+nowy losowy tekst
